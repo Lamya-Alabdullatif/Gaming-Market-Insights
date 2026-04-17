@@ -1,13 +1,21 @@
 ## 📊 Visualizations
 
 ### 🎮 Top Selling Games
-This chart shows the highest-selling video games globally based on total sales.
 
-![Top Games](top_games.png)
+This chart highlights the highest-selling video games globally based on total sales, showing which titles dominate the market.
+
+![Top Games](183824 17-04-2026 لقطة شاشة.png)
 
 ---
 
 ### 🕹 Sales by Platform
-This visualization highlights how different gaming platforms perform in terms of total sales.
 
-Platform Sales
+This visualization compares the performance of different gaming platforms, revealing which platforms generate the most global sales.
+
+![Platform](183949 17-04-2026 لقطة شاشة.png)
+
+---
+
+### 💡 Key Insight
+
+From the analysis, certain platforms and titles clearly dominate global sales, while others show lower performance, indicating strong market competition and regional preferences.
